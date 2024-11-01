@@ -1,0 +1,77 @@
+{
+    "attrs": {
+        "width": 1080,
+        "height": 1080
+    },
+    "className": "Stage",
+    "children": [
+        {
+            "attrs": {},
+            "className": "Layer",
+            "children": [
+                {
+                    "attrs": {
+                        "blurRadius": 15,
+                        "width": 1080,
+                        "height": 1080,
+                        "filters": [
+                            null
+                        ]
+                    },
+                    "className": "Image"
+                },
+                {
+                    "attrs": {
+                        "y": 600,
+                        "width": 1080,
+                        "height": 480,
+                        "opacity": 0.75,
+                        "fill": "#716356"
+                    },
+                    "className": "Rect"
+                },
+                {
+                    "attrs": {
+                        "y": 600,
+                        "text": "Hello world! Das ist ein echt langer Titel!",
+                        "fontSize": 80,
+                        "fontFamily": "Fjalla One",
+                        "fontStyle": "400 normal",
+                        "fill": "#fff",
+                        "width": 1080,
+                        "padding": 40,
+                        "align": "center"
+                    },
+                    "className": "Text"
+                },
+                {
+                    "attrs": {
+                        "y": 850,
+                        "text": "Welcome to WordPress This is your first post Edit or delete it then start writing[...]",
+                        "fontSize": 40,
+                        "fontFamily": "Libre Baskerville",
+                        "fontStyle": "400 normal",
+                        "fill": "#fff",
+                        "width": 1080,
+                        "padding": 40,
+                        "align": "center"
+                    },
+                    "className": "Text"
+                },
+                {
+                    "attrs": {
+                        "x": 20,
+                        "y": 1040,
+                        "text": "http://127.0.0.1:8000",
+                        "fontSize": 25,
+                        "fontFamily": "Source Sans Pro",
+                        "fontStyle": "Normal",
+                        "fill": "#fff",
+                        "width": 1080
+                    },
+                    "className": "Text"
+                }
+            ]
+        }
+    ]
+}

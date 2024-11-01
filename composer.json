@@ -1,0 +1,15 @@
+{
+    "name": "eu/camerloher",
+    "description": "social media plugin",
+    "type": "wordpress-plugin",
+    "require": {
+        "league/color-extractor": "0.3.*",
+        "gumlet/php-image-resize": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Paul Camerloher",
+            "email": "office@camerloher.eu"
+        }
+    ]
+}
